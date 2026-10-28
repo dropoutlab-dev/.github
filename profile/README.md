@@ -7,7 +7,7 @@ A Team. A Vision. A Relentless Journey.
 </div>
 
 <details open>
-<summary><strong>🇧🇩 বাংলা সংস্করণ</strong></summary>🌱 আমরা কারা
+<summary><strong>🇧🇩 বাংলা সংস্করণ</strong></summary>🌱 আমাদের সম্পর্কে
 
 DropOutLab এমন একটি প্রযুক্তিনির্ভর টিম, যারা বিশ্বাস করে—শেখা, তৈরি করা এবং প্রতিনিয়ত নিজেদের উন্নত করার মানসিকতা থাকলে অসাধারণ কিছু অর্জন করা সম্ভব।
 
